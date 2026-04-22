@@ -1,0 +1,23 @@
+Thinking, Fast and Slow
+by Daniel Kahneman
+
+System 1 operates automatically and quickly.
+System 2 allocates attention to effortful mental activities.
+
+Daniel Kahneman spent decades studying the two systems of thought that govern human decision-making. His findings upended assumptions about human rationality and won him the Nobel Prize.
+
+System 1: fast, intuitive, emotional. It recognizes faces. It completes the phrase "bread and..." without effort. It drives on empty roads. It jumps to conclusions.
+
+System 2: slow, deliberate, logical. It fills out tax forms. It parks in a tight space. It monitors behavior in social situations. It is lazy when it can be.
+
+The problem: we often use System 1 when we should use System 2.
+
+Cognitive biases are not errors of calculation — they are features of a system that evolved for speed and survival, not for accuracy.
+
+Anchoring. Availability heuristic. The planning fallacy. Overconfidence. Loss aversion.
+
+Kahneman does not promise to cure bias. He promises something more useful: awareness.
+
+"Nothing in life is as important as you think it is while you are thinking about it."
+
+Knowing about biases does not eliminate them. But it helps you notice when you are most vulnerable.
